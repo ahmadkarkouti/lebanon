@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+@font-face {
+  font-family: "DroidKufi";
+  src: local("DroidKufi"),
+    url("./assets/fonts/DroidArabicKufi/DroidArabicKufiRegular.ttf")
+      format("regular");
+}
+
+@font-face {
+  font-family: "DroidKufiBold";
+  src: local("DroidKufiBold"),
+    url("./assets/fonts/DroidArabicKufi/DroidArabicKufiBold.ttf") format("bold");
+}
